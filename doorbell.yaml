@@ -62,7 +62,7 @@ switch:
       inverted: false
     name: "Doorbell Relay"
     id: relay
-    internal: true
+    internal: false
     icon: mdi:alarm-bell
   - platform: restart
     name: "Doorbell Restart"
